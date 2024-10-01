@@ -133,7 +133,7 @@ const Navbar = () => {
                                 duration={500}
                                 onClick={homeHandler}
                             >
-                                SHOPCART
+                                SHOPKART
                             </NavLogo>
                         </Typography>
                     </HomeContainer>
